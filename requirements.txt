@@ -1,0 +1,5 @@
+python-cfonts==1.5.2
+pymysql==1.0.3
+pandas==1.5.3
+requests==2.31.0
+numpy==1.23.4
